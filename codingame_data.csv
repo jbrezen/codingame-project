@@ -1,0 +1,101 @@
+id,Name,Score,Time,Language
+1,nick_wong,100%,00:02:13,C#
+2,James_Sasser,100%,00:02:23,JavaScript
+3,AustinWithers,100%,00:02:47,Java
+4,SoMorishima,100%,00:03:04,Java
+5,Zeshawn_Manzoor,100%,00:03:05,Scala
+6,MarkAndersons,100%,00:03:13,Kotlin
+7,jheermance,100%,00:03:14,Java
+8,Jeremy_Brezenoff,100%,00:03:16,Java
+9,Marc_Levine,100%,00:03:32,Python 3
+10,ThomasJaeLew,100%,00:03:41,Ruby
+11,MichaelFong,100%,00:03:50,Java
+12,Matthew_Baker,100%,00:04:01,Kotlin
+13,Mathew_Woods,100%,00:04:13,Kotlin
+14,MattKerwin,100%,00:04:21,Java
+15,Chakong_Xiong,100%,00:04:21,Java
+16,MichaelChan98,100%,00:04:42,Java
+17,DavidHouman,100%,00:05:16,Java
+18,CharlesRadcliffe,100%,00:05:16,Java
+19,Nerijus_Gelezinis,100%,00:05:24,Java
+20,MiloVentura,100%,00:05:33,Java
+21,BenMarkos,100%,00:05:47,Java
+22,AlexKJones,100%,00:05:49,Python 3
+23,HungLy,100%,00:05:49,Python 3
+24,AbdullohYoldoshev,100%,00:06:00,Java
+25,DannyTran_Revature,100%,00:06:34,C++
+26,RobertBierly,100%,00:06:35,Java
+27,BC_Beau_Crumley,100%,00:06:42,C#
+28,GeordinSoucie,100%,00:06:43,Java
+29,Roger_Plyler,100%,00:06:47,C#
+30,DangLaDaBest,100%,00:07:31,Java
+31,Jasongwong,100%,00:07:37,Python 3
+32,Mishael_Harrison,100%,00:07:38,Java
+33,Samuel.Fernandez,100%,00:07:48,Java
+34,KevinRoseRevature,100%,00:07:51,Java
+35,Anthony_Escalante,100%,00:08:01,Java
+36,Neruan,100%,00:08:13,Java
+37,sagar01,100%,00:08:43,C#
+38,Phong_Nguyen,100%,00:08:50,Python 3
+39,KeithSantamaria,100%,00:08:50,Java
+40,DaYakes,100%,00:08:55,C#
+41,AlejandroOrozco,100%,00:08:55,Java
+42,ShahidWali,100%,00:08:56,Java
+43,somebodyfsagregtea,100%,00:09:28,Java
+44,Arieh_G,100%,00:09:43,Java
+45,Matt_Lee,100%,00:10:11,Java
+46,AlecMan,100%,00:10:43,Kotlin
+47,SerranoDavid,100%,00:10:51,JavaScript
+48,GabeHarper,100%,00:11:03,Java
+49,DiegoRincon,100%,00:11:05,C#
+50,Antonio_Torres_Ruiz,100%,00:11:10,Swift
+51,Dominick_Wiley,100%,00:11:19,Python 3
+52,DerekM,100%,00:11:34,Java
+53,Iyad-Shobaki,100%,00:11:52,Java
+54,AndrewPepin,100%,00:11:55,C#
+55,BrianCallahan,100%,00:11:57,Java
+56,Andrew_Sutton,100%,00:11:58,C#
+57,NoelShaji,100%,00:11:59,Java
+58,DavidJasuan,100%,00:12:13,Java
+59,Abeil,100%,00:12:46,Java
+60,JasonDuncan,100%,00:12:52,Swift
+61,Joseph-Allen,100%,00:13:15,Java
+62,ChandraShrestha,100%,00:13:27,Java
+63,JuanAlcantara,100%,00:13:30,Java
+64,travis_martin,100%,00:14:10,Python 3
+65,Nicolas_Zimmerman,100%,00:15:00,Java
+66,andre_barajas,0%,00:05:41,Python 3
+67,CodyDiegoSutton,0%,00:14:56,JavaScript
+68,MindyChunminJen,0%,00:00:31,Python 3
+69,leahharrichand,0%,00:14:31,JavaScript
+70,HetviPatel,0%,00:14:42,JavaScript
+71,DwayneJ,0%,00:15:00,Python 3
+72,JeffreyBreiner,0%,00:15:00,C++
+73,Tevin_G,0%,00:12:26,Java
+74,JoseDelValle,0%,00:14:52,Java
+75,treysingh,0%,00:08:09,Java
+76,MansoorFaqiri,0%,00:15:00,Python 3
+77,Roma_Patel,0%,00:15:00,Java
+78,JoeStalnaker,0%,00:14:55,C#
+79,Veerpal,0%,00:13:15,Java
+80,Frank-Johnson,0%,00:05:17,Java
+81,christian-zunalargo,0%,00:15:00,Java
+82,philipw,0%,00:14:51,Java
+83,elliottlockwood,0%,00:10:49,C#
+84,Jacob_Polivka,0%,00:15:00,C#
+85,rodrigof,0%,00:14:59,Java
+86,John_Ng,0%,00:15:00,Java
+87,Kenneth_rev,0%,00:15:00,Java
+88,Nisanth_Mulayath_Variyath,0%,00:12:30,Java
+89,JoseMichaelRubio,0%,00:12:47,Java
+90,Funtasm,0%,00:15:00,C#
+91,DharamKC,0%,00:15:00,Java
+92,parker_loomis,0%,00:15:00,Java
+93,Nick_Diemer,0%,00:15:00,C#
+94,Daniel_Reyes,0%,00:14:54,Java
+95,JoshCushing,0%,00:13:57,Java
+96,Cody_Phillips,0%,00:15:00,Java
+97,maman0022,0%,00:15:00,C#
+98,IsaakJensen,0%,00:15:00,Java
+99,MrAllSunday09,0%,00:12:39,C#
+100,hassanshallal,0%,00:15:00,Java
